@@ -2,7 +2,7 @@
 
 # A string is surrounded by either single quotation marks, or double quotation marks:
 
-# "hello" is the same as 'hello':
+# "hello" is the same as 'hello' :
 
 print("hello")
 print("hello")
